@@ -1,3 +1,4 @@
+image_name,class
 HA (1549).jpg,ha
 THAA (30).JPG,thaa
 HA (111).jpg,ha
