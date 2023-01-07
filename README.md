@@ -2,7 +2,19 @@
 
 ## Citation: 
 
-- The paper has been accepted in [ICICS 2022](https://www.just.edu.jo/icics/). The full paper will be shared once the procedure is published.
+```bibtex
+@INPROCEEDINGS{9811162,
+  author={Al-Barham, Muhammad and Sa’Aleek, Ahmad Abu and Al-Odat, Mohammad and Hamad, Ghada and Al-Yaman, Musa and Elnagar, Ashraf},
+  booktitle={2022 13th International Conference on Information and Communication Systems (ICICS)}, 
+  title={Arabic Sign Language Recognition Using Deep Learning Models}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={226-231},
+  doi={10.1109/ICICS55353.2022.9811162}}
+```
+
+You can find the full paper, [here](https://ieeexplore.ieee.org/abstract/document/9811162/).
 
 ## License:
 
